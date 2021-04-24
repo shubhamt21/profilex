@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEEA,AAAA,IAAI,CAAC;EACH,gBAAgB,EDHR,SAAS;ECIjB,KAAK,EDHK,QAAQ;ECIlB,SAAS,EDHA,IAAI;CCId;;AACD,AAAA,KAAK,CAAA;EACD,MAAM,EDLD,IAAI;CCMZ;;AACD,AAAA,OAAO,CAAA;EACL,MAAM,EDRC,IAAI;CCSZ;;AACD,AAAA,KAAK,CAAA;EACH,MAAM,EDVF,IAAI;CCWT",
+    "sources": [
+        "layout.scss",
+        "modules/variables.scss",
+        "partials/card.scss"
+    ],
+    "names": [],
+    "file": "layout.css"
+}
